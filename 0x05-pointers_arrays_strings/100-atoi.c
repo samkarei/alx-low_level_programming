@@ -14,8 +14,8 @@ d = 0;
 n = 0;
 len = 0;
 f = 0;
-d
-	igit = 0;
+digit = 0;
+
 while (s[len] != '\0')
 len++;
 
